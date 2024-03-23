@@ -16,6 +16,6 @@
 * Firebase
 
 ## App Demo
-[Demo](https://github.com/mahbuba26/Online-Quiz/issues/1#issue-2203886806)
+![Demo](https://github.com/mahbuba26/Online-Quiz/issues/1#issue-2203886806)
 
 
